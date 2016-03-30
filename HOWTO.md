@@ -1,4 +1,4 @@
-# Les Fricassés tunisiens d'après La recette orale Familiale
+# Les Frit-cassés tunisiens d'après La recette orale Familiale
  
  Pour une vingtaine de petits pains. Préparation : toute une soirée. Cuisson : en friture jusqu'à bien dorés
  
