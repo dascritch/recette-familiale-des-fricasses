@@ -1,4 +1,4 @@
- # Les Fricassés tunisiens d'après La recette orale Familiale
+# Les Fricassés tunisiens d'après La recette orale Familiale
  
  Pour une vingtaine de petits pains. Préparation : toute une soirée. Cuisson : en friture jusqu'à bien dorés
  
@@ -11,6 +11,13 @@
  *   1 Cube Levure du Boulanger fraiche ou 2 sachets de Levure déshydratée
  *   1 cs Sucre semoule
  *   1 Bain de friture d'huile de Tournesol ou d'Arachide
+* Pour la Salade Méchouia
+ *   2 belles Tomates pelées
+ *   1 Poivron rouge grillé au four et pelée
+ *   1 trait d'Huile d'Olive
+ *   1 trait de Jus de Citron Jaune
+ *   1 belle pointe de piment en poudre
+ *   Sel et Poivre
 * Pour la garniture
  *   300 g de Thon en boîte
  *   6 Oeufs durs coupés en 6
@@ -30,10 +37,14 @@ Le temps s'est écoulé, rompre la pâte (en mettant un bon coup de poing pour c
 
 Chauffer le bain de friture, pas très fort, y faire dorer les petites boules de pâte, les retourner et les réserver. 
 
+### Pour la salade Méchouia
+
+Couper en dés les tomates de même que le poivron, les verser dans un bol, ainsi que le jus de citron et d'huile d'Olive. Assaisoner de Sel, Poivre et Piment. Réserver au frais.
+
 ### Pour les garnir
 
-Émietter le thon en boite, ainsi qu'une cuillerée à café de Câpres, bien mélanger.
+Émietter le thon en boite, ajouter 2-3 cs (voire plus au goût) de salade Méchouia, ainsi qu'une cuillerée à café de Câpres, bien mélanger.
 
-Couper le petit pain comme pour garnir un sandwich, tapisser d'une bonne cuillerée à café de thon, enfoncer une olive puis terminer par un quartier d'oeuf. La garniture peut aller dans tous les sens, c'est ça qui est rigolo.
+Couper le petit pain comme pour garnir un sandwich, tapisser d'une bonne cuillerée à café de mélange thon-méchouia, enfoncer une olive puis terminer par un quartier d'oeuf. La garniture peut aller dans tous les sens, c'est ça qui est rigolo.
 
 On peut ajouter des dés de pomme de terre. 
